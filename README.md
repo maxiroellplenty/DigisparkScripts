@@ -1,4 +1,4 @@
 # DigisparkScripts
 
 ## Payloads
-* [Wallpaper changer](/scripts/wallpaper-change-win.h)
+* [WIN | Wallpaper changer](/scripts/wallpaper-change-win.h)
